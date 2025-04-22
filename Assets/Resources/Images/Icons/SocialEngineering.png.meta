@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 52e5579558ad541ff9c3a3338a16a339
+guid: 904e985b5cf4c44e691e905586054d40
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6812962657846760324
-    second: MITM_0
+      213: 3282605839490633235
+    second: SocialEngineering_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,11 +109,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MITM_0
+      name: SocialEngineering_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c7cea0f2f8e7371a0800000000000000
-      internalID: -6812962657846760324
+      spriteID: 31e46787e982e8d20800000000000000
+      internalID: 3282605839490633235
       vertices: []
       indices: 
       edges: []
@@ -147,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SocialEngineering_0: 3282605839490633235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

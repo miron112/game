@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cb44580b477b44bf8af8acdf596b9beb
+guid: c22224cc17b8744a7a9289654608465f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6643222006575500869
-    second: SecurityVulnerability_0
+      213: -505257688062455676
+    second: fishingMail_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,11 +109,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SecurityVulnerability_0
+      name: fishingMail_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54e8df9b737713c50800000000000000
-      internalID: 6643222006575500869
+      spriteID: 48090074fc6fcf8f0800000000000000
+      internalID: -505257688062455676
       vertices: []
       indices: 
       edges: []
@@ -147,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fishingMail_0: -505257688062455676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
